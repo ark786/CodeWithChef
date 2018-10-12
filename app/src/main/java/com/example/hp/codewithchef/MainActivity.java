@@ -22,8 +22,8 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity {
 
-    String clientId="fb39c2e8b23387151173d6fef988c4b1";
-    String client_secret="8a2a82094a3173bdf4c78689bdf5e639";
+    String clientId="";
+    String client_secret="";
     String redirectUri="codewithchef://callback";
 
     @Override
