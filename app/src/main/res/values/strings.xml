@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Code With Chef</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="to_dos">To Dos</string>
+    <string name="Up_contest">Upcoming Contest</string>
+    <string name="progress">Progress Check</string>
+    <string name="Reminder">Reminder</string>
+</resources>
